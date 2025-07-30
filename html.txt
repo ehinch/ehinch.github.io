@@ -5,12 +5,11 @@
 </head>
 
 <body>
-
-<center> Customer Testimonials 
+<center> <h1> Customer Testimonials </h1>
 
 <b> Dr. Tracy MacTavish </b>
 <br>
-<img src = "female doctor">
+<img src = "femaledoctor.jpg">
 <br>
 <br>
 Using Eloheh has made it so much easier to receive supplies to give my patients the best care possible. 
