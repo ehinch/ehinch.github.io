@@ -1,0 +1,30 @@
+<html>
+
+<head>
+
+</head>
+
+<body>
+
+<center> Customer Testimonials 
+
+<b> Dr. Tracy MacTavish </b>
+<br>
+<img src = "female doctor">
+<br>
+<br>
+Using Eloheh has made it so much easier to receive supplies to give my patients the best care possible. 
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+</html>
